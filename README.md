@@ -4,6 +4,8 @@
 
 **部份失敗聲音庫已設為 pre-release 並發布在 release 頁面**
 
+新歌手庫 Xe 發布啦！
+
 ## 檔案說明
 
 - ~~DiffSinger_colab_translate_ver.ipynb：適用於 Google Colab 的 Diffsinger 虛擬歌手訓練程式，已經完成繁體中文化。~~ 檔案已拋棄
