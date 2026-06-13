@@ -19,7 +19,7 @@
 
 Gabriel: 見[此連結](https://odysee.com/@itsxiaobaibackupchannel:d/output:d0e?r=14jXQtjTESfN1aJK6reBREAq9421Lz6v)
 
-Xe: 再等一下
+Xe: 見[此連結](https://odysee.com/@itsxiaobaibackupchannel:d/virtual-singer-self-learning-xe:0)
 
 ## 感謝名單
 
