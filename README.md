@@ -21,6 +21,10 @@ Gabriel: 見[此連結](https://odysee.com/@itsxiaobaibackupchannel:d/output:d0e
 
 Xe: 見[此連結](https://odysee.com/@itsxiaobaibackupchannel:d/virtual-singer-self-learning-xe:0)
 
+## 安裝＆使用說明
+
+再等一下
+
 ## 感謝名單
 
 - 育群老師：提供麥克風設備
