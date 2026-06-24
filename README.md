@@ -47,8 +47,6 @@ Xe: 見[此連結](https://odysee.com/@itsxiaobaibackupchannel:d/virtual-singer-
 - [SOFA AI 自動標記](https://github.com/qiuqiao/SOFA)
 - [Diffsinger 官網](https://diffsinger.com/)
 
-## 註解
-
 [^1]: 如果您是 Windows 用戶，可直接將檔案拖入視窗安裝
 [^2]: 如果您是 Windows 用戶，可直接將檔案拖入視窗安裝[^3]
 [^3]: 至於 MacOS ... 我不知道🙃
