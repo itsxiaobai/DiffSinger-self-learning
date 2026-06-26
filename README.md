@@ -54,6 +54,7 @@ Xe: 見[此連結](https://odysee.com/@itsxiaobaibackupchannel:d/virtual-singer-
 - [DiffSinger Colab 訓練程式 notebook by MLo7](https://github.com/MLo7Ghinsan/DiffSinger_colab_notebook_MLo7)
 - [DiffSinger Colab 訓練程式 notebook by usamireko](https://github.com/usamireko/DiffSinger4Colab)
 - [DiffTrainer](https://github.com/agentasteriski/DiffTrainer)
+- [nnsvslabeling by UtaUtaUtau](https://github.com/UtaUtaUtau/nnsvslabeling)
 
 [^1]: 如果您是 Windows 用戶，可直接將檔案拖入視窗安裝
 [^2]: 如果您是 Windows 用戶，可直接將檔案拖入視窗安裝[^3]
