@@ -40,7 +40,7 @@ Xe: 見[此連結](https://odysee.com/@itsxiaobaibackupchannel:d/virtual-singer-
 - 育群老師：提供麥克風設備
 - 創崴：提供算力額度
 - Ray Pan：提供算力額度
-- Eo：標記樣本
+- Eo：標記樣本、教學影片校稿
 - 子佑：標記樣本
 - David：提供錄音環境
 
