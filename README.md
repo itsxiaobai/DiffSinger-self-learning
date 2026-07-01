@@ -33,7 +33,7 @@ Xe: 見[此連結](https://odysee.com/@itsxiaobaibackupchannel:d/virtual-singer-
 7. 開始使用！
 
 - 影片版安裝說明：[Odysee](https://odysee.com/@itsxiaobaibackupchannel:d/Diffsinger-OU-tutorial:c?r=14jXQtjTESfN1aJK6reBREAq9421Lz6v)
-- 影片版訓練程式說明：[Odysee](https://odysee.com/@itsxiaobaibackupchannel:d/Diffsinger_Colab_training_tutorial_:c) | [YouTube](https://youtu.be/PCD7wDNNRnI)
+- 影片版訓練程式說明：[Odysee](https://odysee.com/@itsxiaobaibackupchannel:d/Diffsinger_Colab_training_tutorial_4:f) | [YouTube](https://youtu.be/ui-082C9VwE)
 
 ## 感謝名單
 
