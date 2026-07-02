@@ -16,11 +16,11 @@
 - fixed_sumi_DiffSinger_colab_notebook_translated.ipynb：由 [Sumi](https://github.com/usamireko) 製作的 Diffsinger 修正版本，已經完成大部分繁體中文化。[原始來源](https://github.com/usamireko/DiffSinger4Colab/blob/main/DiffSinger_colab_notebook.ipynb)
 - LLM_轉換拼音指令範本.md：讓 AI 把歌詞轉換成拼音的指令範本，需配合 [opencpop-extension.txt](https://github.com/openvpi/MakeDiffSinger/blob/main/acoustic_forced_alignment/dictionaries/opencpop-extension.txt) 使用。
 
-## 如果你跟我一樣是做自主學習專案，而且想參加競賽的話 ...
+## 如果你跟我一樣是做自主學習專案，而且想參加競賽 / 發表會的話 ...
 
 [這個檔案](sample_public.pdf)給你參考。
 
-不過如果要上傳到學習歷程資料庫，記得重寫一份文件格式的版本，不要像我一樣做完才想到，而且沒報名到比賽🤣
+不過如果要上傳到學習歷程資料庫，記得重寫一份文件格式的版本。不要學我一樣做完才想起來，而且還沒報名到🤣
 
 ## 範例
 
