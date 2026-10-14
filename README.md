@@ -4,7 +4,7 @@
 
 **部份失敗聲音庫已設為 pre-release 並發布在 release 頁面**
 
-新歌手庫 Xe 發布啦！
+這個專案在 [Codeberg](https://codeberg.org/itsxiaobai/DiffSinger-self-learning) 也有同步喔！
 
 ## 檔案說明
 
