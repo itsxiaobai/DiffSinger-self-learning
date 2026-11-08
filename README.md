@@ -13,7 +13,7 @@
 - SVS-Singing-Voice-Database-Tutorial-gpttranslate.txt：使用 ChatGPT 中文翻譯的 "SVS Singing Voice Database - Tutorial" 純文字版（不建議直接參考）。[原始來源](https://docs.google.com/document/d/1uMsepxbdUW65PfIWL1pt2OM6ZKa5ybTTJOpZ733Ht6s/view)
 - train_files：存放錄製樣本的資料夾。
 - phonemes.md：標記中文樣本用的對照表（雖然最後其實沒有用到）。[原始來源](https://github.com/2xxbin/diffsinger-chinese-support/blob/main/phonemes.md)
-- sumi_DiffSinger_colab_notebook_translated_fix20261106.ipynb：由 [Sumi](https://github.com/usamireko) 製作的 Diffsinger 修正版本，已經完成大部分繁體中文化並使用隔離環境執行訓練所需之套件（因新環境不支援）。[原始來源](https://github.com/usamireko/DiffSinger4Colab/blob/main/DiffSinger_colab_notebook.ipynb)
+- sumi_DiffSinger_colab_notebook_translated_fix20261106.ipynb：由 [Sumi](https://github.com/usamireko) 製作的 Diffsinger 修正版本，已經完成大部分繁體中文化、使用隔離環境執行訓練所需之套件（因新環境不支援）。[原始來源](https://github.com/usamireko/DiffSinger4Colab/blob/main/DiffSinger_colab_notebook.ipynb)
 - LLM_轉換拼音指令範本.md：讓 AI 把歌詞轉換成拼音的指令範本，需配合 [opencpop-extension.txt](https://github.com/openvpi/MakeDiffSinger/blob/main/acoustic_forced_alignment/dictionaries/opencpop-extension.txt) 使用。
 
 ## 如果你跟我一樣是做自主學習專案，而且想參加競賽 / 發表會的話 ...
